@@ -1,0 +1,23 @@
+[
+
+    {
+        "price": 4.78,
+        "name": "coca-cola",
+        "EAN": "234567890",
+        "CategoryId":  1
+
+
+    },
+    {
+        "price": 4.78,
+        "name": "coca-cola",
+        "EAN": "234567898",
+        "CategoryId": 2
+    },
+    {
+        "price": 4.78,
+        "name": "coca-cola",
+        "EAN": "234567891",
+        "CategoryId": 3
+    }
+]
